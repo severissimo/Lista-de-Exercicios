@@ -1,5 +1,4 @@
-# Demo
+# Projeto Lista de Exercicios Programa Start
 
-Iniciando testes do Git
+Esse Projeto busca fazer uma ferramenta de Estudos Java baseada nos Exercícios do Programa Start.
 
-## Teste envio via terminal
